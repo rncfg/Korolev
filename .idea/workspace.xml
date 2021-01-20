@@ -1,0 +1,227 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="b4d42008-53a9-4ef5-a6f2-aec46710368a" name="Default Changelist" comment="Script" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="mavenHome" value="$APPLICATION_HOME_DIR$/plugins/maven/lib/maven3" />
+      </MavenGeneralSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="1nHiahE9StcCCqeW69V5alPW3ms" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="project.structure.last.edited" value="Artifacts" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="project.propVCSSupport.Mappings" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="" />
+    </key>
+  </component>
+  <component name="RunManager" selected="TestNG.KorolevScript">
+    <configuration name="KorolevScript" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="UiProject" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="KorolevScript" />
+      <option name="TEST_OBJECT" value="CLASS" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="KorolevScript1" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="UiProject" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="KorolevScript1" />
+      <option name="TEST_OBJECT" value="CLASS" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="KorolevScript1.KorolevScript" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="UiProject" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="KorolevScript1" />
+      <option name="METHOD_NAME" value="KorolevScript" />
+      <option name="TEST_OBJECT" value="METHOD" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="KorolevScript.KorolevScript" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="UiProject" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="KorolevScript" />
+      <option name="METHOD_NAME" value="KorolevScript" />
+      <option name="TEST_OBJECT" value="METHOD" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="KrlvScript2.KorolevScript" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="UiProject" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="KrlvScript2" />
+      <option name="METHOD_NAME" value="KorolevScript" />
+      <option name="TEST_OBJECT" value="METHOD" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="TestNG.KorolevScript" />
+        <item itemvalue="TestNG.KorolevScript1.KorolevScript" />
+        <item itemvalue="TestNG.KorolevScript.KorolevScript" />
+        <item itemvalue="TestNG.KorolevScript1" />
+        <item itemvalue="TestNG.KrlvScript2.KorolevScript" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="b4d42008-53a9-4ef5-a6f2-aec46710368a" name="Default Changelist" comment="" />
+      <created>1611053482407</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1611053482407</updated>
+    </task>
+    <task id="LOCAL-00001" summary="Script">
+      <created>1611079448535</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1611079448535</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
+    <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Script" />
+    <option name="LAST_COMMIT_MESSAGE" value="Script" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="184" y="109" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1611078764117">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state x="184" y="109" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1440.900@0.0.1440.900" timestamp="1611078764117" />
+    <state x="457" y="227" key="#com.intellij.ide.util.TreeClassChooserDialog" timestamp="1611078664270">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state x="457" y="227" key="#com.intellij.ide.util.TreeClassChooserDialog/0.0.1440.900@0.0.1440.900" timestamp="1611078664270" />
+    <state x="0" y="0" width="982" height="900" key="#com.intellij.refactoring.rename.AutomaticRenamingDialog" timestamp="1611077356807">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state x="0" y="0" width="982" height="900" key="#com.intellij.refactoring.rename.AutomaticRenamingDialog/0.0.1440.900@0.0.1440.900" timestamp="1611077356807" />
+    <state width="1398" height="71" key="GridCell.Tab.0.bottom" timestamp="1611156697769">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state width="1398" height="71" key="GridCell.Tab.0.bottom/0.0.1440.900@0.0.1440.900" timestamp="1611156697769" />
+    <state width="1398" height="71" key="GridCell.Tab.0.center" timestamp="1611156697768">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state width="1398" height="71" key="GridCell.Tab.0.center/0.0.1440.900@0.0.1440.900" timestamp="1611156697768" />
+    <state width="1398" height="71" key="GridCell.Tab.0.left" timestamp="1611156697767">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state width="1398" height="71" key="GridCell.Tab.0.left/0.0.1440.900@0.0.1440.900" timestamp="1611156697767" />
+    <state width="1398" height="71" key="GridCell.Tab.0.right" timestamp="1611156697768">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state width="1398" height="71" key="GridCell.Tab.0.right/0.0.1440.900@0.0.1440.900" timestamp="1611156697768" />
+    <state width="699" height="225" key="GridCell.Tab.1.bottom" timestamp="1611079471006">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state width="699" height="225" key="GridCell.Tab.1.bottom/0.0.1440.900@0.0.1440.900" timestamp="1611079471006" />
+    <state width="699" height="225" key="GridCell.Tab.1.center" timestamp="1611079471005">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state width="699" height="225" key="GridCell.Tab.1.center/0.0.1440.900@0.0.1440.900" timestamp="1611079471005" />
+    <state width="699" height="225" key="GridCell.Tab.1.left" timestamp="1611079471004">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state width="699" height="225" key="GridCell.Tab.1.left/0.0.1440.900@0.0.1440.900" timestamp="1611079471004" />
+    <state width="699" height="225" key="GridCell.Tab.1.right" timestamp="1611079471005">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state width="699" height="225" key="GridCell.Tab.1.right/0.0.1440.900@0.0.1440.900" timestamp="1611079471005" />
+    <state x="258" y="109" key="Maven.ArtifactSearchDialog" timestamp="1611079835991">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state x="258" y="109" key="Maven.ArtifactSearchDialog/0.0.1440.900@0.0.1440.900" timestamp="1611079835991" />
+    <state x="208" y="25" width="1024" height="816" key="SettingsEditor" timestamp="1611080072653">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state x="208" y="25" width="1024" height="816" key="SettingsEditor/0.0.1440.900@0.0.1440.900" timestamp="1611080072653" />
+    <state x="320" y="187" key="Vcs.Push.Dialog.v2" timestamp="1611079406871">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state x="320" y="187" key="Vcs.Push.Dialog.v2/0.0.1440.900@0.0.1440.900" timestamp="1611079406871" />
+    <state x="385" y="196" width="670" height="676" key="search.everywhere.popup" timestamp="1611066838452">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state x="385" y="196" width="670" height="676" key="search.everywhere.popup/0.0.1440.900@0.0.1440.900" timestamp="1611066838452" />
+  </component>
+</project>
